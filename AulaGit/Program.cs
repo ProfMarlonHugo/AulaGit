@@ -10,6 +10,7 @@ namespace AulaGit
     {
         static void Main(string[] args)
         {
+            System.Console.WriteLine("Olá Mundo");
             System.Console.ReadKey();
         }
     }
